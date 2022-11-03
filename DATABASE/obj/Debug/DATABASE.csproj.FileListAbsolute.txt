@@ -1,0 +1,11 @@
+H:\LogP\TerceiraEtapa\DATABASE\DATABASE\bin\Debug\DATABASE.exe.config
+H:\LogP\TerceiraEtapa\DATABASE\DATABASE\bin\Debug\DATABASE.exe
+H:\LogP\TerceiraEtapa\DATABASE\DATABASE\bin\Debug\DATABASE.pdb
+H:\LogP\TerceiraEtapa\DATABASE\DATABASE\obj\Debug\DATABASE.csproj.AssemblyReference.cache
+H:\LogP\TerceiraEtapa\DATABASE\DATABASE\obj\Debug\DATABASE.csproj.SuggestedBindingRedirects.cache
+H:\LogP\TerceiraEtapa\DATABASE\DATABASE\obj\Debug\DATABASE.Form1.resources
+H:\LogP\TerceiraEtapa\DATABASE\DATABASE\obj\Debug\DATABASE.Properties.Resources.resources
+H:\LogP\TerceiraEtapa\DATABASE\DATABASE\obj\Debug\DATABASE.csproj.GenerateResource.cache
+H:\LogP\TerceiraEtapa\DATABASE\DATABASE\obj\Debug\DATABASE.csproj.CoreCompileInputs.cache
+H:\LogP\TerceiraEtapa\DATABASE\DATABASE\obj\Debug\DATABASE.exe
+H:\LogP\TerceiraEtapa\DATABASE\DATABASE\obj\Debug\DATABASE.pdb
